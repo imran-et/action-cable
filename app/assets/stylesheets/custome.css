@@ -1,0 +1,15 @@
+.boder-chat{
+	border: 3px solid green;
+	padding: 0px !important;
+}
+
+.sidebaar{
+
+	border: 3px solid green;
+	padding: 0px !important;
+}
+
+.bakgrond {
+	background-image: url(/assets/test6.jpg);
+	background-position: center;
+}
